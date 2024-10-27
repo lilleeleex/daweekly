@@ -1,0 +1,57 @@
+{
+  "planning": {
+    "Lundi": {
+      "planning": [
+        {
+          "activite": "5h ll"
+        }
+      ],
+      "date": "05/02"
+    },
+    "Mardi": {
+      "planning": [
+        {
+          "activite": "22h tao"
+        }
+      ],
+      "date": "06/02"
+    },
+    "Mercredi": {
+      "planning": [
+        {
+          "activite": "14h paro"
+        }
+      ],
+      "date": "07/02"
+    },
+    "Jeudi": {
+      "planning": [
+        {
+          "activite": "5h cine"
+        }
+      ],
+      "date": "08/02"
+    },
+    "Vendredi": {
+      "planning": [
+        {
+          "activite": "5h mog"
+        }
+      ],
+      "date": "09/02"
+    },
+    "Samedi": {
+      "planning": [],
+      "date": "10/02"
+    },
+    "Dimanche": {
+      "planning": [],
+      "date": "11/02"
+    }
+  },
+  "weekDates": {
+    "startOfWeekDate": "05/02",
+    "endOfWeekDate": "11/02"
+  },
+  "weekNumber": "6"
+}

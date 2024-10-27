@@ -1,0 +1,58 @@
+{
+  "planning": {
+    "Lundi": {
+      "planning": [
+        {
+          "activite": "10h foot"
+        },
+        {
+          "activite": "11h basket"
+        },
+        {
+          "activite": "15h volley"
+        }
+      ],
+      "date": "21/10"
+    },
+    "Mardi": {
+      "planning": [],
+      "date": "22/10"
+    },
+    "Mercredi": {
+      "planning": [
+        {
+          "activite": "9h sankara"
+        }
+      ],
+      "date": "23/10"
+    },
+    "Jeudi": {
+      "planning": [
+        {
+          "activite": "piscine 20h"
+        },
+        {
+          "activite": "11h silex"
+        }
+      ],
+      "date": "24/10"
+    },
+    "Vendredi": {
+      "planning": [],
+      "date": "25/10"
+    },
+    "Samedi": {
+      "planning": [],
+      "date": "26/10"
+    },
+    "Dimanche": {
+      "planning": [],
+      "date": "27/10"
+    }
+  },
+  "weekDates": {
+    "startOfWeekDate": "21/10",
+    "endOfWeekDate": "27/10"
+  },
+  "weekNumber": "43"
+}

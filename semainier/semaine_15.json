@@ -1,0 +1,49 @@
+{
+  "planning": {
+    "Lundi": {
+      "planning": [
+        {
+          "activite": "13h kart"
+        }
+      ],
+      "date": "08/04"
+    },
+    "Mardi": {
+      "planning": [
+        {
+          "activite": "10h30"
+        }
+      ],
+      "date": "09/04"
+    },
+    "Mercredi": {
+      "planning": [],
+      "date": "10/04"
+    },
+    "Jeudi": {
+      "planning": [
+        {
+          "activite": "12h ping pong"
+        }
+      ],
+      "date": "11/04"
+    },
+    "Vendredi": {
+      "planning": [],
+      "date": "12/04"
+    },
+    "Samedi": {
+      "planning": [],
+      "date": "13/04"
+    },
+    "Dimanche": {
+      "planning": [],
+      "date": "14/04"
+    }
+  },
+  "weekDates": {
+    "startOfWeekDate": "08/04",
+    "endOfWeekDate": "14/04"
+  },
+  "weekNumber": "15"
+}

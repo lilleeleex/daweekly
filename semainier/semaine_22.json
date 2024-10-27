@@ -1,0 +1,41 @@
+{
+  "planning": {
+    "Lundi": {
+      "planning": [
+        {
+          "activite": "8h dd"
+        }
+      ],
+      "date": "27/05"
+    },
+    "Mardi": {
+      "planning": [],
+      "date": "28/05"
+    },
+    "Mercredi": {
+      "planning": [],
+      "date": "29/05"
+    },
+    "Jeudi": {
+      "planning": [],
+      "date": "30/05"
+    },
+    "Vendredi": {
+      "planning": [],
+      "date": "31/05"
+    },
+    "Samedi": {
+      "planning": [],
+      "date": "01/06"
+    },
+    "Dimanche": {
+      "planning": [],
+      "date": "02/06"
+    }
+  },
+  "weekDates": {
+    "startOfWeekDate": "27/05",
+    "endOfWeekDate": "02/06"
+  },
+  "weekNumber": "22"
+}
