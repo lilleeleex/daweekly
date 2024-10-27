@@ -7,12 +7,16 @@ import fs from 'fs';
 import ExcelJS from 'exceljs';
 import Table from 'cli-table3';
 
-const pathSemainiers = '/home/leeroy/web/dada/semainier/semainiers/'; // Dossier pour stocker les fichiers de semaine
-const pathExports = '/home/leeroy/web/dada/semainier/exports/'; // Dossier pour stocker les exports de semaine
+const pathTools = `${process.cwd()}/datools/`;
+if (!fs.existsSync(pathTools)) fs.mkdirSync(pathTools);
+const pathDaWeekly = `${pathTools}daweekly/`;
+if (!fs.existsSync(pathDaWeekly)) fs.mkdirSync(pathDaWeekly);
+const pathSemainiers = `${pathDaWeekly}semainiers/`; // Dossier pour stocker les fichiers de semaine
+if (!fs.existsSync(pathSemainiers)) fs.mkdirSync(pathSemainiers);
+const pathExports = `${pathDaWeekly}exports/`; // Dossier pour stocker les exports de semaine
+if (!fs.existsSync(pathExports)) fs.mkdirSync(pathExports);
 
 // Créer le dossier s'il n'existe pas
-if (!fs.existsSync(pathSemainiers)) fs.mkdirSync(pathSemainiers);
-if (!fs.existsSync(pathExports)) fs.mkdirSync(pathExports);
 
 globalThis.monSemainier = null;
 
